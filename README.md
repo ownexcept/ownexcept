@@ -16,7 +16,6 @@ I build things out of curiosity, interest, and the fun of seeing ideas turn into
 - HTML & CSS
 - JavaScript
 - Node.js
-- Golang
 - Python
 
 ## 🌿 What I Enjoy
